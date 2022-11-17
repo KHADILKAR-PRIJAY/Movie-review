@@ -18,7 +18,7 @@
 
 ### Demo
 
-<img src="https://user-images.githubusercontent.com/86222915/193183625-adf475b5-45fc-46d8-83c2-3c6eb4ee09b6.mp4" height="550" width="265">
+<img src="https://user-images.githubusercontent.com/86222915/202356488-622382f2-7c5d-45f7-901a-b6094b40d9aa.mov" height="550" width="265">
 
 ### Screenshots
 <p float="left">
